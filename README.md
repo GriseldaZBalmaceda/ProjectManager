@@ -1,0 +1,3 @@
+This project is a streamlined task manager that demonstrates how powerful applications can be built using fundamental concepts. It allows users to create and delete projects, as well as manage tasks within those projects. My goal was to challenge myself by relying on basic React principles to showcase common caveats and how React addresses them. For instance, prop drilling is a challenge tackled here, and there was room to further optimize the create/delete functionality for a more efficient codebase.
+
+In version 2, we plan to incorporate intermediate-level React concepts, such as the Context API, to enhance the application’s functionality and structure.
